@@ -3,7 +3,7 @@
 
   "name": "Vergecaster",
   "short_name": "Vergecaster",
-  "description": "Does things that a guy does after drinking a bottle of Scissor Vodka",
+  "description": "Does things that a guy does after drinking a bottle of Scissor Vodka\n\nGithub repo - https://github.com/manidesto/vergecaster",
   "version": "1.0",
   "icons": {
       "32": "icon32.png",
