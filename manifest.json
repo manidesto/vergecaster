@@ -2,6 +2,7 @@
   "manifest_version": 2,
 
   "name": "Vergecaster",
+  "short_name": "Vergecaster",
   "description": "Does things that a guy does after drinking a bottle of Scissor Vodka",
   "version": "1.0",
   "icons": {
