@@ -1,5 +1,5 @@
 ## Vergecaster
-A chrome extension for folks who know what Scissor Vodka is.
+A [chrome extension](https://chrome.google.com/webstore/detail/vergecaster/egbcmnaldneacckjcdblnjjeiffkcgog) for folks who know what Scissor Vodka is.
 
 ## Features
 Right now just satisfies this request from @reckless
