@@ -10,6 +10,7 @@ Right now just satisfies this request from @reckless
 Features I intend to add in the coming future. The speed will depend on how good the episodes are.
 * Toggles for the insanity
 * Quick links to #vergecaster in twitter, vergecast youtube channel
+
 > Open issues for feature requests
 
 ## I accept pull requests
